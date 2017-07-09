@@ -1,4 +1,8 @@
 
-<p>This is from the footer.php file</p>
+<footer class="footer">
+      <div class="container">
+        <p class="text-muted">JOHN MORRIS &copy; <?php echo date("Y"); ?> </p>
+      </div>
+    </footer>
 </body>
 </html>
